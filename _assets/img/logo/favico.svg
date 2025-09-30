@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="215.9mm" height="279.4mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 21590 27940"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="666" font-variant="normal" class="str1" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Geometr415 Blk BT">
+		<font-face-src>
+			<font-face-name name="Geometr415 Blk BT Black"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="J" horiz-adv-x="420" d="M1.00051 148c17.8329,-7.83365 34.3326,-13.8332 49.3333,-17.8329 14.8326,-4.16666 27.9992,-6.16652 39.4998,-6.16652 33.5002,0 57.3328,10.9998 71.6668,32.9994 14.3329,21.9996 21.4999,59.3338 21.4999,112l0 439 170 0 0 -479c0,-81.6661 -21.0003,-144.166 -62.9996,-187.333 -42.0005,-43.1668 -102.668,-64.6667 -182,-64.6667 -15.0007,0 -30.0002,1.00051 -44.8339,3.00036 -14.6668,1.83292 -30.166,4.83328 -46.0002,8.66606l-16.1658 159.334z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Geometr415 Blk BT";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str1 {stroke-width:0.88;stroke-miterlimit:22.9256}
+    .str0 {stroke:#1D1819;stroke-width:42.33;stroke-miterlimit:22.9256}
+    .str2 {stroke:#FEFEFE;stroke-width:7.62;stroke-miterlimit:22.9256}
+    .fil0 {fill:#FEFEFE}
+    .fil1 {fill:url(#id1)}
+    .fnt0 {font-weight:normal;font-size:8685.61px;font-family:'Geometr415 Blk BT'}
+   ]]>
+  </style>
+    <clipPath id="id0">
+     <path d="M7475.39 10069.98l7245.18 0 0 8028.76 -7245.18 0 0 -8028.76z"/>
+    </clipPath>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="9126.74" y1="13238.66" x2="12443.9" y2="14330.22">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2F318B"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#718AED"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0 str0" x="4303.88" y="7478.88" width="12982.23" height="12982.23" rx="2501.23" ry="2501.23"/>
+  <g id="_1713255873968">
+   <g style="clip-path:url(#id0)">
+    <image x="7475.39" y="10069.98" width="7245.18" height="8028.76" xlink:href="favico_Images\favico_ImgID1.png"/>
+   </g>
+  </g>
+  <g transform="matrix(1.20247 0 -0.329064 1 -425.882 2789.26)">
+   <text x="10795" y="13970"  class="fil1 str2 fnt0">J</text>
+  </g>
+ </g>
+</svg>

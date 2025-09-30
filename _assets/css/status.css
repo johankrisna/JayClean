@@ -1,0 +1,28 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #3a66c1; /* Warna biru */
+  color: white;
+}
+
+/* Tambahkan CSS untuk warna status 'selesai' */
+.selesai {
+  background-color: green;
+  color: white;
+}
+
+/* Tambahkan CSS untuk warna status 'belum selesai' */
+.belum-selesai {
+  background-color: red;
+  color: white;
+}
